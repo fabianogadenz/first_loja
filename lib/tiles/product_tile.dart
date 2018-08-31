@@ -20,6 +20,7 @@ class ProductTile extends StatelessWidget {
       child: Card(
         child: type == "grid"
             ? Column(
+
                 crossAxisAlignment: CrossAxisAlignment.stretch,
                 mainAxisAlignment: MainAxisAlignment.start,
                 children: <Widget>[
