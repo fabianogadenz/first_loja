@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "784560780790",
+    "firebase_url": "https://loja-virtual-aafc5.firebaseio.com",
+    "project_id": "loja-virtual-aafc5",
+    "storage_bucket": "loja-virtual-aafc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784560780790:android:cd294db51083589b",
+        "android_client_info": {
+          "package_name": "br.com.gadenz.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784560780790-hp7840ib7ut7u6qk98brsohdbkmadt90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW8H3fIFf4WZ4N-YFzHvJcHdgqUzZWXHY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
